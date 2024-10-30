@@ -1,10 +1,10 @@
 👋 Hi, I’m @aman-rohera
 
-👀 I’m interested in Cybersecurity, Full-Stack Development, Facial Recognition, and Innovative Technology Solutions
+👀 I’m interested in Cybersecurity, Full-Stack Development,Artificial Intelligence, and Innovative Technology Solutions
 
 🌱 I’m currently learning Advanced React, Django, and diving deeper into Ethical Hacking
 
-💞️ I’m looking to collaborate on cutting-edge tech projects, AI solutions, or startup ideas
+💞️ I’m looking to collaborate on cutting-edge tech projects, AI solutions, or CyberSecurity
 
 📫 You can reach me at aman.rohera@yahoo.com
 
