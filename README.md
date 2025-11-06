@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on cutting-edge tech projects, AI solutions, or CyberSecurity
 
-📫 You can reach me at aman.rohera@yahoo.com
+📫 You can reach me at amanrohera21@gmail.com
 
 📫 We can Connect on LinkedIn: https://www.linkedin.com/in/aman-rohera/
 
